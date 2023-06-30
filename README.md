@@ -63,7 +63,7 @@ Ans: From the South-East-Asia region India contributes highest premature death w
 Ans: The socio economic status of india fall under Lower middle income group which is a risk fature for the highest premature death
 
 6. Which country from Africa contribute highest premature death
-7. 
+
 Ans: From the Africa region Country Nigeria contributes highest premature death
 
 7.Find top 3 country from Africa region having highest death rate and its socio economic status
