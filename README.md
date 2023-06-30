@@ -83,8 +83,11 @@ Ans: Lower middle income group has highest death rate whereas High income group 
 3.Find socio econimic condition for each region in percentage
 
 Ans: High_Income: Europe contributes "Highest income" with 42.1%
+
      Low income: Africa falls in "Low income" group with 58.7%
+     
      Lower middle income: South-East-Asia falls in "Lower middle income" group with 34.5%
+     
      Upper middle income: America falls in "Upper_middle_income" group with 36.5%
 
 # Showing bar chart for Top 10 countries with highest Death rate
