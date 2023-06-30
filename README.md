@@ -28,39 +28,60 @@ The Dataset is about Neo natal Death from the year 2000-2019, Extracted from Wor
 
 12.Value String: Represents the value of the number of neonatal deaths as a string.
 
-# Finding:
+# Findings:
 
 # Year:
 
 1.Plotting Line chart to show Death rate over years
+
 Ans: It has been observed from the above graph that Death rate has decline over years
+
 2.Showing maximum death rate over years using bar graph.
+
 Ans: The maximum death rate for each year has decline from 2000 to 2012, whereas from 2014 to 2020 the Death rate is constant
 
 # Cause:
 
 1.Find the cause which contributes the highest death
+
 Ans: Prematurity is the highest cause of Death above all
+
 2.Find which region has highest cause of death
+
 Ans: South-East-Asia and Africa are the two region which has highest Prematurity death
+
 3.Find the pattern for these regions
+
 Ans: From the chart it has seen from the Year 2000 to 2013 South-East-Asia has the highest prematurity death, And from 2014 to 2019 Africa has the highest premature death rate, the pattern changed from one region to another this might be south east asia has advanced medical conditions over those years
+
 4.Find the country from this region contributing highest death
+
 Ans: From the South-East-Asia region India contributes highest premature death which can be seen from the above Line chart
+
 5.Find the socio economic status of this country contributing highest death
+
 Ans: The socio economic status of india fall under Lower middle income group which is a risk fature for the highest premature death
+
 6. Which country from Africa contribute highest premature death
+7. 
 Ans: From the Africa region Country Nigeria contributes highest premature death
+
 7.Find top 3 country from Africa region having highest death rate and its socio economic status
+
 Ans: The top 3 country and its eoconimc status which has highest premature death Nigeria falls in Lower middle income group and Ethiopia and Democratic republic in congo falls in Lower income group
 
 # Region:
 
 1.Find the lowest death region
+
 Ans: Europe and America region has lowest death rate compared to all other regions
+
 2.Find which income group has maximum and lowest death
+
 Ans: Lower middle income group has highest death rate whereas High income group has lowest death rate
+
 3.Find socio econimic condition for each region in percentage
+
 Ans: High_Income: Europe contributes "Highest income" with 42.1%
      Low income: Africa falls in "Low income" group with 58.7%
      Lower middle income: South-East-Asia falls in "Lower middle income" group with 34.5%
